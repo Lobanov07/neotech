@@ -1,0 +1,31 @@
+# Qt build files
+build/
+bin/
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+*.obj
+*.o
+*.exe
+*.dll
+*.so
+*.dylib
+*.log
+*.qrc.dep
+Makefile
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+
+# Qt Creator specific
+.idea/
+*.user
+*.user.*
+*.autosave
+
+# Backup files
+*~
+*.swp
